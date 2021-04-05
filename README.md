@@ -15,4 +15,5 @@ cordova-plugin-ble-peripheral <br>
 cordova-plugin-bluetoothle <br>
 cordova-plugin-bluetooth-serial <br>
 
+![Screenshot 2021-04-05 225844](https://user-images.githubusercontent.com/58332892/113604361-cc17b800-9662-11eb-86cb-67247bff694c.png)
 
