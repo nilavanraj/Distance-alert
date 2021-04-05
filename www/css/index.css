@@ -1,0 +1,9 @@
+.device{
+background-color: grey;
+    width: 150px;
+    border: 10px solid green;
+    padding: 50px;
+    margin: 20px;
+    color:white;
+    font-family:arial;
+}
