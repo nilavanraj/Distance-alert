@@ -1,4 +1,4 @@
-# Distance-alert using Cordova bluetooth
+# Distance-alert using Cordova BLE
 
 BR1 V1.0.0 <br>
 -> The application needs bluetooth and location enabled to run <br>
