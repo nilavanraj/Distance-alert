@@ -1,4 +1,5 @@
-# Distance-alert using Cordova
+# Distance-alert using Cordova bluetooth
+
 BR1 V1.0.0 <br>
 -> The application needs bluetooth and location enabled to run <br>
 -> A location permission is requested and should be enabled (API level 18) <br>
